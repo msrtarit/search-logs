@@ -1,0 +1,11 @@
+[2024-02-04 11:00:12] INFO: User login attempt detected.
+[2024-02-04 11:02:05] ERROR: Incorrect password entered for user 'tarit'.
+[2024-02-04 11:05:30] INFO: User 'tarit' successfully logged in.
+[2024-02-04 11:07:15] WARNING: Multiple failed login attempts detected.
+[2024-02-04 11:10:45] INFO: Security alert triggered for user 'tarit'.
+[2024-02-04 10:15:30] INFO: System started successfully.
+[2024-02-04 10:16:02] WARNING: Low disk space on /dev/sda1.
+[2024-02-04 10:17:45] ERROR: Failed to connect to database.
+[2024-02-04 10:18:10] INFO: Retrying database connection...
+[2024-02-04 10:19:30] SUCCESS: Database connection established.
+
