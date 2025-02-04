@@ -1,0 +1,5 @@
+[2024-02-04 12:00:00] INFO: System health check initiated.
+[2024-02-04 12:05:10] INFO: CPU usage at 75%.
+[2024-02-04 12:10:30] ERROR: Application crash detected in module XYZ.
+[2024-02-04 12:15:40] INFO: Restarting service XYZ...
+[2024-02-04 12:20:55] SUCCESS: Service XYZ restarted successfully.
